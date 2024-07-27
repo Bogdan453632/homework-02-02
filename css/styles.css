@@ -35,10 +35,9 @@ body {
     height: 24px;
 }
 .link-studio {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -49,10 +48,9 @@ body {
     color: #404bbf;
 }
 .link-portfolio {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -63,10 +61,9 @@ body {
     color: #404bbf;
 }
 .link-contacts {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -96,6 +93,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.link-tel:hover {
+    color: #404bbf;
+}
+.link-tel:focus {
+    color: #404bbf;
 }
 .portfolio {
     font-size: 36px;
