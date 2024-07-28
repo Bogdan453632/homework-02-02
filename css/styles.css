@@ -47,32 +47,7 @@ body {
 .link-studio:focus {
     color: #404bbf;
 }
-.link-portfolio {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.link-portfolio:hover {
-    color: #404bbf;
-}
-.link-portfolio:focus {
-    color: #404bbf;
-}
-.link-contacts {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.link-contacts:hover {
-    color: #404bbf;
-}
-.link-contacts:focus {
-    color: #404bbf;
-}
+
 .address {
     font-style: normal;
 }
@@ -88,18 +63,7 @@ body {
 .link-email:focus {
     color: #404bbf;
 }
-.link-tel {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.link-tel:hover {
-    color: #404bbf;
-}
-.link-tel:focus {
-    color: #404bbf;
-}
+
 .portfolio {
     font-size: 36px;
     line-height: 1.11;
@@ -143,6 +107,30 @@ body {
     color: #2e2f42;
 }
 .text-strategy {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.section-our-team {
+    background-color: #F4F4FD;
+}
+.our-team {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.our-team-list {
+    font-weight: 500;
+    font-size:20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+.text-team-list {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
