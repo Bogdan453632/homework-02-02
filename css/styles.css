@@ -157,5 +157,8 @@ body {
 .text-footer-logo {
     line-height: 1.5;
     color: #f4f4fd;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
+}
+.items-product-designer {
+    background-color: #ffffff;
 }
